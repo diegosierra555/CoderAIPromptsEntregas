@@ -5,10 +5,10 @@ Hola Profe!!
 
 Esta es la PRE Entrega I - PROMPTs para la planificacion de vacaciones
 
-# Introduccion 
+# Introduccion PRE-ENTREGA 2
 Mi idea para este trabajo es escribir prompts que me den opciones para mis proximas vacaciones e informacion para planificarlas
 
-# Objetivo
+# Objetivo PRE-ENTREGA 2
 Que el asistente openAI asista en el armado de mis proximas vacaciones , segun mis requeisitos y expectativas:
 
 Paso/propmt 1: obtener varias opciones para evaluar y elegir , segun mi contexto:
@@ -24,6 +24,11 @@ Paso/prompt 2: dadas las opciones del paso anterior, que me asista en la planifi
     2.2 Ciudad, barrios y Opciones de hospedajes y costos
     2.3 Atracciones, lugares de interes, eventos
     2.4 Opciones de Gastronomia y recreacion y costos
+
+# Objetivo entrega FINAL
+Dadas las response de open IA genere y perfeccione con Gemini imagenes para acompañar el ofrecimiento comercial en texto
+
+Optimice los promots
 
 
     
